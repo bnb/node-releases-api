@@ -1,0 +1,16 @@
+{
+  "name": "release-api",
+  "version": "0.0.1",
+  "description": "a releases api for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "license": "MIT",
+  "dependencies": {
+    "jsonist": "^2.1.0",
+    "moment": "^2.22.2",
+    "node-fetch": "^2.2.0"
+  }
+}
